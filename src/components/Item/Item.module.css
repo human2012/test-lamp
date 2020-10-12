@@ -1,0 +1,35 @@
+.container {
+    width: 250px;
+    height: 550px;
+    margin-right: 50px;
+    float: left;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.title {
+    padding: 20px 0;
+}
+
+.description {
+    padding-bottom: 20px;
+}
+
+.textBlock {
+    padding: 5px;
+}
+
+.price {
+    padding: 10px 0;
+}
+
+.button {
+    background: #b3e5fc;
+    padding: 10px 5px;
+    text-align: center;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}

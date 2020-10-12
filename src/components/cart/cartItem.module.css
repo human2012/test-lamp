@@ -1,0 +1,63 @@
+.container {
+    width: 60%;
+    margin-right: 50px;
+    display: inline-block;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.img {
+    float: left;
+    margin-right: 15px;
+}
+
+.title {
+    padding: 10px 0;
+}
+
+.description {
+    padding-bottom: 10px;
+}
+
+.textBlock {
+    float: left;
+    margin-right: 10px;
+    width: 50%;
+}
+
+.price {
+    padding: 10px 0;
+}
+
+.plusMinus {
+    display: flex;
+    align-items: center;
+    height: 150px;
+}
+
+.button {
+    background: #b3e5fc;
+    padding: 10px 5px;
+    text-align: center;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
+
+.buttonPlus {
+    float: left;
+    margin-right: 10px;
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.buttonMinus {
+    float: left;
+    margin-right: 10px;
+    border: none;
+    background: none;
+    outline: none;
+    cursor: pointer;
+}
